@@ -5,7 +5,7 @@ s2132101@ed.ac.uk
 
 ## Education
 
-* **2020-Present (BSc) University of Edinburgh** School of Mathematics, UK
+* **2020-2022 (BSc) University of Edinburgh** School of Mathematics, UK
 
   **Average Marks** 96.4 &nbsp;&nbsp;&nbsp;  **Grade** A1 
 
@@ -13,15 +13,32 @@ s2132101@ed.ac.uk
 
 ## Awards
 
-**2021 Arthur Erdélyi Prize** (Edinburgh)
+* **2021 Arthur Erdélyi Prize** (Edinburgh)
 
-**2021 Dr Nigel Suess Prize** (Edinburgh)
+  on the basis of distinguished performance in the Degree Examination for Mathematics 3
 
-**2019 National Scholarship** (SCUT)
+* **2021 Dr Nigel Suess Prize** (Edinburgh)
 
-## Project
+  on the basis of distinguished performance in the course "Introduction to Number Theory"
+* **2019 National Scholarship** (SCUT)
+
+## Expereience
 
 **2021** Theorem Proving on Lean
+
+## Research Interest
+
+I'm interested in Algebra.
+
+## Maths
+
+I have read the following books where I learnt extra math outside the class:
+
+* *Naive Lie Theory* by John Stillwell (Lie Algebra)
+
+* *Riemman Surface* by Simon Donaldson (Riemann Surface)
+
+* *Basic Category Theory* by Tom Leinster (Category Theory)
 
 <!-- ## Welcome to GitHub Pages
 
