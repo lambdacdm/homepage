@@ -1,15 +1,15 @@
 ## Personal Details
-BSc Mathematcis
-
-University of Edinburgh
+BSc Mathematcis, University of Edinburgh
 
 s2132101@ed.ac.uk
 
 ## Education
 
-**2020 BS University of Edinburgh** School of Mathematics, UK
+* **2020-Present (BSc) University of Edinburgh** School of Mathematics, UK
 
-**2018 BS South China University of Techonology** School of Mathematics, China
+  **Average Marks** 96.4 &nbsp;&nbsp;&nbsp;  **Grade** A1 
+
+* **2018-2020 (BSc) South China University of Techonology** School of Mathematics, China
 
 ## Awards
 
@@ -17,7 +17,11 @@ s2132101@ed.ac.uk
 
 **2021 Dr Nigel Suess Prize** (Edinburgh)
 
-**2019 National Award** (SCUT)
+**2019 National Scholarship** (SCUT)
+
+## Project
+
+**2021** Theorem Proving on Lean
 
 <!-- ## Welcome to GitHub Pages
 
