@@ -1,7 +1,9 @@
 ## Personal Details
-a student in University of Edinburgh
+BSc Mathematcis
 
-**Email** s2132101@ed.ac.uk
+University of Edinburgh
+
+s2132101@ed.ac.uk
 
 ## Education
 
