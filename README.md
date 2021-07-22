@@ -7,7 +7,7 @@ s2132101@ed.ac.uk
 
 * **2020-2022 (BSc) University of Edinburgh** School of Mathematics, UK
 
-  **Average Marks** 96.4 &nbsp;&nbsp;&nbsp;  **Grade** A1 
+  **Average Marks** 96.4/100 &nbsp;&nbsp;&nbsp;  **Grade** A1 
 
 * **2018-2020 (BSc) South China University of Techonology** School of Mathematics, China
 
