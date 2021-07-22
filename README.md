@@ -1,4 +1,23 @@
-## Welcome to GitHub Pages
+## Personal Details
+a student in University of Edinburgh
+
+**Email** s2132101@ed.ac.uk
+
+## Education
+
+**2020 BS University of Edinburgh** School of Mathematics, UK
+
+**2018 BS South China University of Techonology** School of Mathematics, China
+
+## Awards
+
+2021 Arthur Erdélyi Prize (Edinburgh)
+
+2021 Dr Nigel Suess Prize (Edinburgh)
+
+2019 National Award (SCUT)
+
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lambdacdm/homepage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +53,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
