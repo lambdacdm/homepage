@@ -22,7 +22,7 @@ s2132101@ed.ac.uk
   on the basis of distinguished performance in the course "Introduction to Number Theory"
 * **2019 National Scholarship** (SCUT)
 
-## Expereience
+## Experience
 
 **2021** Theorem Proving on Lean
 
