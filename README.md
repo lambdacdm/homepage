@@ -13,11 +13,11 @@ s2132101@ed.ac.uk
 
 ## Awards
 
-2021 Arthur Erdélyi Prize (Edinburgh)
+**2021 Arthur Erdélyi Prize** (Edinburgh)
 
-2021 Dr Nigel Suess Prize (Edinburgh)
+**2021 Dr Nigel Suess Prize** (Edinburgh)
 
-2019 National Award (SCUT)
+**2019 National Award** (SCUT)
 
 <!-- ## Welcome to GitHub Pages
 
