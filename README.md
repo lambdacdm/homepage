@@ -30,9 +30,7 @@ s2132101@ed.ac.uk
 
 I'm interested in Algebra.
 
-## Maths
-
-I have read the following books where I learnt extra math outside the class:
+Furthermore, I have read the following books where I learnt extra math outside the class:
 
 * *Naive Lie Theory* by John Stillwell (Lie Algebra)
 
