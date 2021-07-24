@@ -1,7 +1,9 @@
 ## Personal Details
 BSc Mathematcis, University of Edinburgh
 
-s2132101@ed.ac.uk
+**Email** &nbsp; s2132101@ed.ac.uk
+
+**Phone** &nbsp; +86 15063916209
 
 ## Education
 
@@ -24,7 +26,7 @@ s2132101@ed.ac.uk
 
 ## Experience
 
-**2021** Theorem Proving on Lean
+**2021 Theorem Proving on Lean**
 
 ## Research Interest
 
