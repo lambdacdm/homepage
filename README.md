@@ -13,6 +13,8 @@ BSc Mathematcis, University of Edinburgh
 
 * **2018-2020 (BSc) South China University of Techonology** School of Mathematics, China
 
+  **GPA** 3.99/4.0 &nbsp;&nbsp;&nbsp; **Rank** 1/60
+
 ## Awards
 
 * **2021 Arthur Erdélyi Prize** (Edinburgh)
