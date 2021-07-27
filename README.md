@@ -7,21 +7,21 @@ BSc Mathematcis, University of Edinburgh
 
 ## Education
 
-* **2020-2022 (BSc) University of Edinburgh** School of Mathematics, UK
+* **2020-2022 (BSc) University of Edinburgh (UoE)** School of Mathematics, UK
 
   **Average Marks** 96.4/100 &nbsp;&nbsp;&nbsp;  **Grade** A1 
 
-* **2018-2020 (BSc) South China University of Techonology** School of Mathematics, China
+* **2018-2020 (BSc) South China University of Techonology (SCUT)** School of Mathematics, China
 
   **GPA** 3.99/4.0 &nbsp;&nbsp;&nbsp; **Rank** 1/60
 
 ## Awards
 
-* **2021 Arthur Erdélyi Prize** (Edinburgh)
+* **2021 Arthur Erdélyi Prize** (UoE)
 
   Up to three prizes, awarded on the basis of distinguished performance in the Degree Examination for Mathematics 3
 
-* **2021 Dr Nigel Suess Prize** (Edinburgh)
+* **2021 Dr Nigel Suess Prize** (UoE)
 
   awarded on the basis of distinguished performance in the course "Introduction to Number Theory"
 * **2019 National Scholarship** (SCUT)
