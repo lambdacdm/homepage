@@ -19,12 +19,14 @@ BSc Mathematcis, University of Edinburgh
 
 * **2021 Arthur Erdélyi Prize** (Edinburgh)
 
-  on the basis of distinguished performance in the Degree Examination for Mathematics 3
+  Up to three prizes, awarded on the basis of distinguished performance in the Degree Examination for Mathematics 3
 
 * **2021 Dr Nigel Suess Prize** (Edinburgh)
 
-  on the basis of distinguished performance in the course "Introduction to Number Theory"
+  awarded on the basis of distinguished performance in the course "Introduction to Number Theory"
 * **2019 National Scholarship** (SCUT)
+
+  awarded for remarkbale students, funded by central government of China
 
 ## Experience
 
