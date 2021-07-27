@@ -30,6 +30,8 @@ BSc Mathematcis, University of Edinburgh
 
 **2021 Theorem Proving on Lean**
 
+In the project, I and other participants got proofs of algebraic theorems on Lean, an interactive theorem prover. Concepts like equivalence classes, Lagrange theorem were implemented. This project combines mathematics, logic and computer science.
+
 ## Research Interest
 
 I'm interested in Algebra.
