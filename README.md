@@ -34,15 +34,13 @@ In the project, I and other participants got proofs of algebraic theorems on Lea
 
 ## Research Interest
 
-I'm interested in Algebra.
-
-Furthermore, I have read the following books where I learnt extra math outside the class:
+I'm interested in Algebra. Specifically, I have read the following books in the respective fields:
 
 * *Naive Lie Theory* by John Stillwell (Lie Algebra)
 
-* *Riemman Surface* by Simon Donaldson (Riemann Surface)
-
 * *Basic Category Theory* by Tom Leinster (Category Theory)
+
+* *Riemman Surface* by Simon Donaldson (Riemann Surface)
 
 <!-- ## Welcome to GitHub Pages
 
