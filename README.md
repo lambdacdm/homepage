@@ -3,7 +3,7 @@ BSc Mathematcis, The University of Edinburgh
 
 **Email** &nbsp; s2132101@ed.ac.uk
 
-**Phone** &nbsp; +86 15063916209
+**Phone** &nbsp; +44 07752418830
 
 ## Education
 
