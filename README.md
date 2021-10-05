@@ -1,4 +1,4 @@
-## Li Xiang 
+## Xiang Li
 BSc Mathematcis, The University of Edinburgh
 
 **Email** &nbsp; s2132101@ed.ac.uk
