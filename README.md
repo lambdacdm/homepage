@@ -1,6 +1,4 @@
 ## Li Xiang 
-
-## Personal Details
 BSc Mathematcis, The University of Edinburgh
 
 **Email** &nbsp; s2132101@ed.ac.uk
@@ -41,7 +39,7 @@ In the project, I and other participants got proofs of algebraic theorems on Lea
 
 Participants in this project gained a basic understanding of Riemann Surfaces, including rudiments of manifolds, algebraic topology and differential forms. The Uniformisation Theorem was also discussed, which gives a classification of Riemann surfaces.
 
-## Research Interest
+<!-- ## Research Interest
 
 I'm interested in Algebra. Specifically, I have read the following books in the respective fields:
 
@@ -49,7 +47,7 @@ I'm interested in Algebra. Specifically, I have read the following books in the 
 
 * *Basic Category Theory* by Tom Leinster (Category Theory)
 
-* *Riemman Surface* by Simon Donaldson (Riemann Surface)
+* *Riemman Surface* by Simon Donaldson (Riemann Surface) -->
 
 <!-- ## Welcome to GitHub Pages
 
