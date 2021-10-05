@@ -36,6 +36,7 @@ In the project, I and other participants got proofs of algebraic theorems on Lea
 
 
 **2019 Riemann Surfaces**
+
 Participants in this project gained a basic understanding of Riemann Surfaces, including rudiments of manifolds, algebraic topology and differential forms. The Uniformisation Theorem was also discussed, which gives a classification of Riemann surfaces.
 
 ## Research Interest
