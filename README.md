@@ -32,16 +32,16 @@ BSc Mathematcis, The University of Edinburgh
 
 * **2021 Group Project in Algebraic Geometry** (UoE)
 
-This is the Year 4 project, which is expected to be completed by March 2022. We are studying smooth and singular cubic surfaces and their properties in the project.
+  This is the Year 4 project, which is expected to be completed by March 2022. We are studying smooth and singular cubic surfaces and their properties in the project.
 
 * **2021 Theorem Proving on Lean** (UoE)
 
-In the project, I and other participants got proofs of algebraic theorems on Lean, an interactive theorem prover. Concepts like equivalence classes and Lagrange theorem were implemented. This project combines mathematics, logic and computer science.
+  In the project, I and other participants got proofs of algebraic theorems on Lean, an interactive theorem prover. Concepts like equivalence classes and Lagrange theorem were implemented. This project combines mathematics, logic and computer science.
 
 
 * **2019 Riemann Surfaces** (SCUT)
 
-Participants in this project gained a basic understanding of Riemann Surfaces, including rudiments of manifolds, algebraic topology and differential forms. The Uniformisation Theorem was also discussed, which gives a classification of Riemann surfaces.
+  Participants in this project gained a basic understanding of Riemann Surfaces, including rudiments of manifolds, algebraic topology and differential forms. The Uniformisation Theorem was also discussed, which gives a classification of Riemann surfaces.
 
 <!-- ## Research Interest
 
