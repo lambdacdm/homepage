@@ -36,7 +36,7 @@ BSc Mathematcis, The University of Edinburgh
 
 * **2021 Theorem Proving on Lean** (UoE)
 
-  In the summer project, I and other participants got proofs of algebraic theorems on Lean, an interactive theorem prover. What I did was proving the ring version of Chinese Remainder Theorem on Lean. This project combines mathematics, logic, and computer science.
+  In the summer project, I and other participants got proofs of algebraic theorems on Lean, an interactive theorem prover. What I did was proving the ring version of the Chinese Remainder Theorem on Lean. This project combines mathematics, logic, and computer science.
 
 
 * **2019 Riemann Surfaces** (SCUT)
