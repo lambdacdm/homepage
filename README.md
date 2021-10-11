@@ -7,11 +7,11 @@ BSc Mathematcis, The University of Edinburgh
 
 ## Education
 
-* **2020-2022 (BSc) The University of Edinburgh (UoE)** School of Mathematics, UK
+* **2020-2022 (BSc) The University of Edinburgh (UoE)** School of Mathematics
 
   **Average Marks** 96.4/100 &nbsp;&nbsp;&nbsp;  **Grade** A1 
 
-* **2018-2020 (BSc) South China University of Techonology (SCUT)** School of Mathematics, China
+* **2018-2020 (BSc) South China University of Techonology (SCUT)** School of Mathematics
 
   **GPA** 3.97/4.0 &nbsp;&nbsp;&nbsp; **Rank** 1/60
 
