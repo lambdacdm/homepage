@@ -41,8 +41,7 @@ BSc Mathematcis, The University of Edinburgh
 
 * **2019 Riemann Surfaces** (SCUT)
 
-  Participants in this project gained a basic understanding of Riemann Surfaces, including rudiments of manifolds, algebraic topology, and differential forms. The Uniformisation Theorem was also discussed, which gives a classification of Riemann surfaces.
-
+  In the seminar, we read the book *Riemann Surface* by Simon Donaldson and reported what we learnt regularly. We gained a basic understanding of Riemann Surfaces, including rudiments of manifolds, algebraic topology, and an important theorem called the uniformization theorem. 
 <!-- ## Research Interest
 
 I'm interested in Algebra. Specifically, I have read the following books in the respective fields:
@@ -51,7 +50,7 @@ I'm interested in Algebra. Specifically, I have read the following books in the 
 
 * *Basic Category Theory* by Tom Leinster (Category Theory)
 
-* *Riemman Surface* by Simon Donaldson (Riemann Surface) -->
+* *Riemann Surface* by Simon Donaldson (Riemann Surface) -->
 
 <!-- ## Welcome to GitHub Pages
 
