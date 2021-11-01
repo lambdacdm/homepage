@@ -1,5 +1,5 @@
 ## Xiang Li
-BSc Mathematcis, The University of Edinburgh
+BSc Mathematics, The University of Edinburgh
 
 **Email** &nbsp; s2132101@ed.ac.uk
 
@@ -13,7 +13,7 @@ BSc Mathematcis, The University of Edinburgh
 
   **Average Marks** 96.4/100 &nbsp;&nbsp;&nbsp;  **Grade** A1 
 
-* **2018-2020 (BSc) South China University of Techonology (SCUT)** School of Mathematics
+* **2018-2020 (BSc) South China University of Technology (SCUT)** School of Mathematics
 
   **GPA** 3.97/4.0 &nbsp;&nbsp;&nbsp; **Rank** 1/60
 
@@ -28,7 +28,7 @@ BSc Mathematcis, The University of Edinburgh
   awarded on the basis of distinguished performance in the course "Introduction to Number Theory"
 * **2019 National Scholarship** (SCUT)
 
-  awarded for remarkbale students, funded by central government of China
+  awarded for remarkable students, funded by the central government of China
 
 ## Experience
 
@@ -49,7 +49,13 @@ BSc Mathematcis, The University of Edinburgh
 
   Supervisor: Associate Prof. Xiaoming Du
 
-  In the seminar, we read the book *Riemann Surface* by Simon Donaldson and reported what we learned regularly. We gained a basic understanding of Riemann Surfaces, including rudiments of manifolds, algebraic topology, and the uniformization theorem. 
+  We read the book Riemann Surface by Simon Donaldson in the seminar and reported what we learned regularly. We gained a basic understanding of Riemann Surfaces, including rudiments of manifolds, algebraic topology, and the uniformization theorem.
+  
+ ## Skills
+ 
+**Pure Math** 
+
+**Programming** C++, python, mathematica, latex. See my [github homapage](https://github.com/lambdacdm).
   
 <!-- ## Research Interest
 
