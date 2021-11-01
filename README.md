@@ -5,6 +5,8 @@ BSc Mathematcis, The University of Edinburgh
 
 **Phone** &nbsp; +44 07752418830
 
+**Mailing Address** &nbsp; 13 Sciennes, Edinburgh, United Kingdom
+
 ## Education
 
 * **2020-2022 (BSc) The University of Edinburgh (UoE)** School of Mathematics
