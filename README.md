@@ -57,7 +57,7 @@ BSc Mathematics, The University of Edinburgh
 
 ## Involvement
 
-* **2018-2019 Director of Academic Apartment in Students' Union of the school of mathematics** (SCUT)
+* **2018-2019 Director of Academic Department in Students' Union of the school of mathematics** (SCUT)
   
 <!-- ## Research Interest
 
