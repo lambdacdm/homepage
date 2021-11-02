@@ -54,6 +54,10 @@ BSc Mathematics, The University of Edinburgh
 ## Skills
 
 **Programming** &nbsp; C++, python, mathematica, latex. See my [github homepage](https://github.com/lambdacdm).
+
+## Involvement
+
+* **2018-2019 Director of Academic Apartment in Students' Union of the school of mathematics** (SCUT)
   
 <!-- ## Research Interest
 
