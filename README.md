@@ -52,10 +52,8 @@ BSc Mathematics, The University of Edinburgh
   We read the book Riemann Surface by Simon Donaldson in the seminar and reported what we learned regularly. We gained a basic understanding of Riemann Surfaces, including rudiments of manifolds, algebraic topology, and the uniformization theorem.
   
 ## Skills
- 
-**Pure Math** 
 
-**Programming** C++, python, mathematica, latex. See my [github homapage](https://github.com/lambdacdm).
+**Programming** &nbsp; C++, python, mathematica, latex. See my [github homepage](https://github.com/lambdacdm).
   
 <!-- ## Research Interest
 
