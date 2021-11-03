@@ -32,24 +32,24 @@ BSc Mathematics, The University of Edinburgh
 
 ## Experience
 
-* **2021 Group Project in Algebraic Geometry** (UoE)
+* **2021-2022 Group Project in Algebraic Geometry** (UoE) (to be completed)
 
   Supervisor: Prof. Ivan Cheltsov 
   
-  It is the Year 4 project, which is expected to be completed by March 2022. We are studying smooth and singular cubic surfaces and their properties in the project.
+  Our goal is studying smooth and singular cubic cuvers, surfaces and their properties in this Year 4 project. My role is dealing with Hesse configuration so far. We mainly use the tool of the projective plane, and a bit of commutative algebra.
 
-* **2021 Algebra Theorem Proving on Lean** (UoE)
+* **2021-2021 Algebra Theorem Proving on Lean** (UoE)
 
   Supervisor: Prof. Iain Gordon
 
-  In the summer project, participants got proofs of algebraic theorems on Lean, an interactive theorem prover. What I did was proving the ring version of the Chinese Remainder Theorem on Lean. This project combines mathematics, logic, and computer science.
+  Our goal was getting proofs of algebraic theorems on Lean, an interactive theorem prover in this summer project. My role was proving the ring version of the Chinese Remainder Theorem on Lean. The mathedology is a combination of mathematics, logic (more specifically, type theory), and computer science.
 
 
-* **2019 Riemann Surfaces** (SCUT)
+* **2019-2020 Riemann Surfaces** (SCUT)
 
   Supervisor: Associate Prof. Xiaoming Du
 
-  We read the book Riemann Surface by Simon Donaldson in the seminar and reported what we learned regularly. We gained a basic understanding of Riemann Surfaces, including rudiments of manifolds, algebraic topology, and the uniformization theorem.
+  Our goal was getting a basic understanding of the uniformization theorem by reading the book *Riemann Surface* by Simon Donaldson in this seminar. My role was reporting what I learned regularly. We used algebraic topology and differential manifolds as our tools.
   
 ## Skills
 
