@@ -42,7 +42,7 @@ BSc Mathematics, The University of Edinburgh
 
   Supervisor: Prof. Iain Gordon
 
-  Our goal was getting proofs of algebraic theorems on Lean, an interactive theorem prover in this summer project. My role was proving the ring version of the Chinese Remainder Theorem on Lean. The mathedology is a combination of mathematics, logic (more specifically, type theory), and computer science.
+  Our goal was getting proofs of algebraic theorems on Lean, an interactive theorem prover in this summer project. My role was proving the ring version of the Chinese Remainder Theorem on Lean. The mathedology is a combination of mathematics, logic, and computer science.
 
 
 * **2019-2020 Riemann Surfaces** (SCUT)
