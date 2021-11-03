@@ -38,7 +38,7 @@ BSc Mathematics, The University of Edinburgh
   
   It is the Year 4 project, which is expected to be completed by March 2022. We are studying smooth and singular cubic surfaces and their properties in the project.
 
-* **2021 Theorem Proving on Lean** (UoE)
+* **2021 Algebra Theorem Proving on Lean** (UoE)
 
   Supervisor: Prof. Iain Gordon
 
