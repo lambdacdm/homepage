@@ -36,7 +36,7 @@ BSc Mathematics, The University of Edinburgh
 
   Supervisor: Prof. Ivan Cheltsov 
   
-  Our goal is studying smooth and singular cubic cuvers, surfaces and their properties in this Year 4 project. My role is dealing with Hesse configuration so far. We mainly use the tool of the projective plane, and a bit of commutative algebra.
+  Our goal is studying smooth and singular cubic curves, surfaces and their properties in this Year 4 project. My role is dealing with Hesse configuration so far. We mainly use the tool of the projective plane, and a bit of commutative algebra.
 
 * **2021-2021 Algebra Theorem Proving on Lean** (UoE)
 
