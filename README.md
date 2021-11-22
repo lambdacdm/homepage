@@ -61,6 +61,9 @@ BSc Mathematics, The University of Edinburgh
   * Mastered the knowledge of the uniformization theorem by reading the book Riemann Surface by Simon Donaldson in this seminar.
   * Used algebraic topology and differential manifolds as the tools.
   
+  &nbsp;
+
+  
 ## Skills
 
 **Technical Skills** &nbsp; C++, Python, Latex, Mathematica, Matlab, Mathematical and Statistical Techniques. See my [github homepage](https://github.com/lambdacdm).
