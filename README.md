@@ -1,63 +1,72 @@
-## Xiang Li
+## Xiang Li 李想
 BSc Mathematics, The University of Edinburgh
 
 **Email** &nbsp; s2132101@ed.ac.uk
 
 **Phone** &nbsp; +44 07752418830
 
-**Mailing Address** &nbsp; 13 Sciennes, Edinburgh, United Kingdom
+**Address** &nbsp; 13 Sciennes, Edinburgh, United Kingdom
 
 ## Education
 
-* **2020-2022 (BSc) The University of Edinburgh (UoE)** School of Mathematics
+* **Sep 2020 - May 2022 (BSc) The University of Edinburgh (UoE)** School of Mathematics
 
   **Average Marks** 96.4/100 &nbsp;&nbsp;&nbsp;  **Grade** A1 
 
-* **2018-2020 (BSc) South China University of Technology (SCUT)** School of Mathematics
+* **Sep 2018 - Jun 2020 (BSc) South China University of Technology (SCUT)** School of Mathematics
 
   **GPA** 3.97/4.0 &nbsp;&nbsp;&nbsp; **Rank** 1/60
 
 ## Awards
 
-* **2021 Arthur Erdélyi Prize** (UoE)
+* **Aug 2021 Arthur Erdélyi Prize** (UoE)
 
   Up to three prizes, awarded on the basis of distinguished performance in the Degree Examination for Mathematics 3
 
-* **2021 Dr Nigel Suess Prize** (UoE)
+* **Aug 2021 Dr Nigel Suess Prize** (UoE)
 
   awarded on the basis of distinguished performance in the course "Introduction to Number Theory"
-* **2019 National Scholarship** (SCUT)
+* **Jun 2019 National Scholarship** (SCUT)
 
   awarded for remarkable students, funded by the central government of China
 
 ## Experience
 
-* **2021-2022 Group Project in Algebraic Geometry** (UoE) (to be completed)
+* **Sep 2021 - Mar 2022 Group Project in Algebraic Geometry** (UoE) (to be completed)
 
-  Supervisor: Prof. Ivan Cheltsov 
+  Supervisor: Prof. [Ivan Cheltsov](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=27) 
   
-  Our goal is studying smooth and singular cubic curves, surfaces and their properties in this Year 4 project. My role is dealing with Hesse configuration so far. We mainly use the tool of the projective plane, and a bit of commutative algebra.
+  * Studied smooth and singular cubic curves, surfaces and their properties in the senior project.
+  * Dealt with Hesse configuration and Hesse pencil.
+  * Utilised projective plane and commutative algebra.
+* **Jul 2021 - Sep 2021 Algebra Theorem Proving on Lean** (UoE)
 
-* **2021-2021 Algebra Theorem Proving on Lean** (UoE)
+  Supervisor: Prof. [Iain Gordon](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=95) (Head of School and Chair of Mathematics)
 
-  Supervisor: Prof. Iain Gordon
+  * Worked collaboratively on the research projects. Proved the algebraic theorems (e.g. the ring version of the Chinese Remainder Theorem) on Lean, an interactive theorem prover.
+  * Sketched the proof of the structure theorem of finitely generated module over a PID on Lean.
+  * Applied the methodology of combining mathematics, logic, and computer science.
 
-  Our goal was getting proofs of algebraic theorems on Lean, an interactive theorem prover in this summer project. My role was proving the ring version of the Chinese Remainder Theorem on Lean. The mathedology is a combination of mathematics, logic, and computer science.
 
+* **Apr 2020 - Mar 2021 Riemann Surfaces** (SCUT)
 
-* **2019-2020 Riemann Surfaces** (SCUT)
+  Supervisor: Associate Prof. [Xiaoming Du 杜晓明](http://www2.scut.edu.cn/math/2017/1229/c14638a318362/page.htm)
 
-  Supervisor: Associate Prof. Xiaoming Du
-
-  Our goal was getting a basic understanding of the uniformization theorem by reading the book *Riemann Surface* by Simon Donaldson in this seminar. My role was reporting what I learned regularly. We used algebraic topology and differential manifolds as our tools.
+  * Mastered the knowledge of the uniformization theorem by reading the book Riemann Surface by Simon Donaldson in this seminar.
+  * Used algebraic topology and differential manifolds as the tools.
   
 ## Skills
 
-**Programming** &nbsp; C++, python, mathematica, latex. See my [github homepage](https://github.com/lambdacdm).
+**Technical Skills** &nbsp; C++, Python, Latex, Mathematica, Matlab, Mathematical and Statistical Techniques. See my [github homepage](https://github.com/lambdacdm).
 
-## Involvement
+## Extracurricular Activities
 
-* **2018-2019 Director of Academic Department in Students' Union of the school of mathematics** (SCUT)
+* **Sep 2019 - Jun 2020 Director of Academic Department in Students' Union of the school of mathematics** (SCUT)
+ 
+  Supported the intentional improvement of student learning and examined learning outcomes.
+* **Music Production**
+ 
+  See [music laboratory](https://lambdacdm.github.io/Music-Laboratory/) (written in Chinese).
   
 <!-- ## Research Interest
 
