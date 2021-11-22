@@ -15,7 +15,7 @@ BSc Mathematics, The University of Edinburgh
 
 * **Sep 2018 - Jun 2020 (BSc) South China University of Technology (SCUT)** School of Mathematics
 
-  **GPA** 3.97/4.0 &nbsp;&nbsp;&nbsp; **Rank** 1/60
+  **GPA** 3.97/4.0 &nbsp;&nbsp;&nbsp; **Rank** 1/56
 
 ## Awards
 
