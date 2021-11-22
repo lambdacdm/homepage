@@ -26,19 +26,21 @@ BSc Mathematics, The University of Edinburgh
 * **Aug 2021 Dr Nigel Suess Prize** (UoE)
 
   awarded on the basis of distinguished performance in the course "Introduction to Number Theory"
+  
 * **Jun 2019 National Scholarship** (SCUT)
 
   awarded for remarkable students, funded by the central government of China
 
 ## Experience
 
-* **Sep 2021 - Mar 2022 Group Project in Algebraic Geometry** (UoE) (to be completed)
+* **Sep 2021 - Mar 2022 Group Project in Algebraic Geometry** (UoE) 
 
   Supervisor: Prof. [Ivan Cheltsov](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=27) 
   
   * Studied smooth and singular cubic curves, surfaces and their properties in the senior project.
   * Dealt with Hesse configuration and Hesse pencil.
   * Utilised projective plane and commutative algebra.
+  
 * **Jul 2021 - Sep 2021 Algebra Theorem Proving on Lean** (UoE)
 
   Supervisor: Prof. [Iain Gordon](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=95) (Head of School and Chair of Mathematics)
@@ -64,6 +66,7 @@ BSc Mathematics, The University of Edinburgh
 * **Sep 2019 - Jun 2020 Director of Academic Department in Students' Union of the school of mathematics** (SCUT)
  
   Supported the intentional improvement of student learning and examined learning outcomes.
+  
 * **Music Production**
  
   See [music laboratory](https://lambdacdm.github.io/Music-Laboratory/) (written in Chinese).
