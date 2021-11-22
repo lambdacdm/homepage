@@ -41,6 +41,8 @@ BSc Mathematics, The University of Edinburgh
   * Dealt with Hesse configuration and Hesse pencil.
   * Utilised projective plane and commutative algebra.
   
+  &nbsp;
+  
 * **Jul 2021 - Sep 2021 Algebra Theorem Proving on Lean** (UoE)
 
   Supervisor: Prof. [Iain Gordon](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=95) (Head of School and Chair of Mathematics)
@@ -48,6 +50,8 @@ BSc Mathematics, The University of Edinburgh
   * Worked collaboratively on the research projects. Proved the algebraic theorems (e.g. the ring version of the Chinese Remainder Theorem) on Lean, an interactive theorem prover.
   * Sketched the proof of the structure theorem of finitely generated module over a PID on Lean.
   * Applied the methodology of combining mathematics, logic, and computer science.
+  
+  &nbsp;
 
 
 * **Apr 2020 - Mar 2021 Riemann Surfaces** (SCUT)
