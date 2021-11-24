@@ -51,8 +51,7 @@ BSc Mathematics, The University of Edinburgh
   * Sketched the proof of the structure theorem of finitely generated module over a PID on Lean.
   * Applied the methodology of combining mathematics, logic, and computer science.
   
-  &nbsp;
-
+  Report: [Click Here](https://github.com/lambdacdm/Reports-of-Projects/blob/main/Algebra%20Theorem%20Proving%20in%20Lean.pdf)
 
 * **Apr 2020 - Mar 2021 Riemann Surfaces** (SCUT)
 
@@ -60,9 +59,8 @@ BSc Mathematics, The University of Edinburgh
 
   * Mastered the knowledge of the uniformization theorem by reading the book Riemann Surface by Simon Donaldson in this seminar.
   * Used algebraic topology and differential manifolds as the tools.
-  
-  &nbsp;
 
+  Report: [Click Here](https://github.com/lambdacdm/Reports-of-Projects/blob/main/201836430362.pdf) (written in Chinese)
   
 ## Skills
 
