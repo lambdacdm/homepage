@@ -41,7 +41,7 @@ BSc Mathematics, The University of Edinburgh
   * Dealt with Hesse configuration and Hesse pencil.
   * Utilised projective plane and commutative algebra.
   
- Report: [Click Here](https://github.com/lambdacdm/Reports-of-Projects/blob/main/Algebraic_Geometry_Prjoject.pdf)
+  Report: [Click Here](https://github.com/lambdacdm/Reports-of-Projects/blob/main/Algebraic_Geometry_Prjoject.pdf)
   
 * **Jul 2021 - Sep 2021 Algebra Theorem Proving on Lean** (UoE)
 
