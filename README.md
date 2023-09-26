@@ -1,5 +1,5 @@
 ## Xiang Li 李想
-First Year PhD student in algebra and number theory, The University of Edinburgh
+First Year PhD student in algebra and number theory, The University of Edinburgh, working with Prof. [Minhyong Kim](https://www.minhyongkim.net/) 
 
 **Email** &nbsp; s2132101@ed.ac.uk
 
@@ -8,10 +8,10 @@ First Year PhD student in algebra and number theory, The University of Edinburgh
 **Address(working)** &nbsp; Bayes Centre, the University of Edinburgh
 
 ## Education
-* **Sep 2023 - Now (PhD) The University of Edinburgh**
+* **Sep 2023 - Now (PhD) The University of Edinburgh (UoE)**
 School of Mathematics (Hodge Institute)
 
-* **Oct 2022 - Jun 2023 (MASt) University of Cambridge**
+* **Oct 2022 - Jun 2023 (MASt) University of Cambridge (Cam)**
 Department of Pure Mathematics and Mathematical Statistics
 
 * **Sep 2020 - May 2022 (BSc) The University of Edinburgh (UoE)** School of Mathematics
@@ -38,9 +38,22 @@ Department of Pure Mathematics and Mathematical Statistics
 
 ## Experience
 
+* **May 2023 The Modularity Theorem and the Modular Approach** (Cam)
+
+  Supervisor: Dr. [Hanneke Wiersema](https://www.dpmms.cam.ac.uk/~hw600/)
+
+  Abstract: The goal of the essay is to show how the modularity theorem implies Fermat’s Last
+Theorem (FLT). We begin the essay by discussing about elliptic curves, modular forms
+and their Galois representations. Then we state the modularity theorem and Ribet’s level
+lowering theorem. Next we study the properties of the Frey curve and its representations,
+and apply those theorems to deduce FLT. Finally we make a short introduction on a general
+version of modularity theorem.
+
+  Report: [Clicke Here](https://github.com/lambdacdm/Reports-of-Projects/blob/main/modularity.pdf)
+  
 * **Sep 2021 - Mar 2022 Group Project in Algebraic Geometry** (UoE) 
 
-  Supervisor: Prof. [Ivan Cheltsov](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=27) 
+  Supervisor: Prof. [Ivan Cheltsov](https://www.maths.ed.ac.uk/cheltsov/) 
   
   * Studied smooth and singular cubic curves, surfaces and their properties in the senior project.
   * Dealt with Hesse configuration and Hesse pencil.
@@ -48,9 +61,9 @@ Department of Pure Mathematics and Mathematical Statistics
   
   Report: [Click Here](https://github.com/lambdacdm/Reports-of-Projects/blob/main/Algebraic_Geometry_Prjoject.pdf)
   
-* **Jul 2021 - Sep 2021 Algebra Theorem Proving on Lean** (UoE)
+* **Jul 2021 - Sep 2021 Algebra Theorem Proving in Lean** (UoE)
 
-  Supervisor: Prof. [Iain Gordon](https://www.maths.ed.ac.uk/school-of-mathematics/people/a-z?person=95) (Head of School and Chair of Mathematics)
+  Supervisor: Prof. [Iain Gordon](https://www.maths.ed.ac.uk/~igordon/) (Head of School and Chair of Mathematics)
 
   * Worked collaboratively on the research projects. Proved the algebraic theorems (e.g. the ring version of the Chinese Remainder Theorem) on Lean, an interactive theorem prover.
   * Sketched the proof of the structure theorem of finitely generated module over a PID on Lean.
