@@ -3,8 +3,6 @@ First Year PhD student in algebra and number theory, The University of Edinburgh
 
 **Email** &nbsp; s2132101@ed.ac.uk
 
-**Phone** &nbsp; +44 07752418830
-
 **Address(working)** &nbsp; Bayes Centre, the University of Edinburgh
 
 ## Education
