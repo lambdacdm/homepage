@@ -5,7 +5,7 @@ First Year PhD student in algebra and number theory, The University of Edinburgh
 
 **Phone** &nbsp; +44 07752418830
 
-**Address** &nbsp; 13 Sciennes, Edinburgh, United Kingdom
+**Address(working)** &nbsp; Bayes Centre, the University of Edinburgh
 
 ## Education
 * **Sep 2023 - Now (PhD) The University of Edinburgh**
@@ -16,11 +16,11 @@ Department of Pure Mathematics and Mathematical Statistics
 
 * **Sep 2020 - May 2022 (BSc) The University of Edinburgh (UoE)** School of Mathematics
 
-  **Average Marks** 96.4/100 &nbsp;&nbsp;&nbsp;  **Grade** A1 
+<!--**Average Marks** 96.4/100 &nbsp;&nbsp;&nbsp;  **Grade** A1-->
 
 * **Sep 2018 - Jun 2020 (BSc) South China University of Technology (SCUT)** School of Mathematics
 
-  **GPA** 3.97/4.0 &nbsp;&nbsp;&nbsp; **Rank** 1/56
+<!-- **GPA** 3.97/4.0 &nbsp;&nbsp;&nbsp; **Rank** 1/56 -->
 
 ## Awards
 
