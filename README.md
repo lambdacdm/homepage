@@ -22,20 +22,6 @@ Department of Pure Mathematics and Mathematical Statistics
 
 <!-- **GPA** 3.97/4.0 &nbsp;&nbsp;&nbsp; **Rank** 1/56 -->
 
-## Awards
-
-* **Aug 2021 Arthur Erdélyi Prize** (UoE)
-
-  Up to three prizes, awarded on the basis of distinguished performance in the Degree Examination for Mathematics 3
-
-* **Aug 2021 Dr Nigel Suess Prize** (UoE)
-
-  awarded on the basis of distinguished performance in the course "Introduction to Number Theory"
-  
-* **Jun 2019 National Scholarship** (SCUT)
-
-  awarded for remarkable students, funded by the central government of China
-
 ## Experience
 
 * **May 2023 The Modularity Theorem and the Modular Approach** (Cam)
@@ -79,7 +65,21 @@ version of modularity theorem.
   * Used algebraic topology and differential manifolds as the tools.
 
   Report: [Click Here](https://github.com/lambdacdm/Reports-of-Projects/blob/main/201836430362.pdf) (written in Chinese)-->
+
+## Awards
+
+* **Aug 2021 Arthur Erdélyi Prize** (UoE)
+
+  Up to three prizes, awarded on the basis of distinguished performance in the Degree Examination for Mathematics 3
+
+* **Aug 2021 Dr Nigel Suess Prize** (UoE)
+
+  awarded on the basis of distinguished performance in the course "Introduction to Number Theory"
   
+* **Jun 2019 National Scholarship** (SCUT)
+
+  awarded for remarkable students, funded by the central government of China
+
 ## Skills
 
 **Technical Skills** &nbsp; C++, Python, Latex, Mathematica, Matlab, Mathematical and Statistical Techniques. See my [github homepage](https://github.com/lambdacdm).
