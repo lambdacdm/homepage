@@ -1,5 +1,5 @@
 ## Xiang Li 李想
-BSc Mathematics, The University of Edinburgh
+First Year PhD student in algebra and number theory, The University of Edinburgh
 
 **Email** &nbsp; s2132101@ed.ac.uk
 
@@ -8,6 +8,11 @@ BSc Mathematics, The University of Edinburgh
 **Address** &nbsp; 13 Sciennes, Edinburgh, United Kingdom
 
 ## Education
+* **Sep 2023 - Now (PhD) The University of Edinburgh**
+School of Mathematics (Hodge Institute)
+
+* **Oct 2022 - Jun 2023 (MASt) University of Cambridge**
+Department of Pure Mathematics and Mathematical Statistics
 
 * **Sep 2020 - May 2022 (BSc) The University of Edinburgh (UoE)** School of Mathematics
 
