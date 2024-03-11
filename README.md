@@ -1,7 +1,7 @@
 **My personal website 我的个人主页:** [https://lambdacdm.github.io/home](https://lambdacdm.github.io/home)
 
 ## Xiang Li 李想
-First Year PhD student in algebra and number theory, The University of Edinburgh, working with Prof. [Minhyong Kim](https://www.minhyongkim.net/) 
+I'm Xiang Li 李想, a first year math PhD student of algebra and number theory in the University of Edinburgh working with Prof. [Minhyong Kim](https://www.minhyongkim.net/). My interests are in algebraic number theory and arithmetic geometry. To be more specific, I am interested in non-abelian Chabauty methods, which provide an efficient way to find rational points on a curve. I'm also interested in some mathematical physics such as topological quantum field theory and higher category.
 
 **Email** &nbsp; s2132101@ed.ac.uk
 
@@ -21,6 +21,14 @@ Department of Pure Mathematics and Mathematical Statistics
 * **Sep 2018 - Jun 2020 (BSc) South China University of Technology (SCUT)** School of Mathematics
 
 <!-- **GPA** 3.97/4.0 &nbsp;&nbsp;&nbsp; **Rank** 1/56 -->
+
+## Recent Activities
+
+I have attended/will attend the following conferences.
+
+* [**Gauge Fields in Arithmetic, Topology and Physics**](https://www.icms.org.uk/GaugeFieldsArithmeticTopologyPhysics) 15-19 Apr 2024, ICMS, Edinburgh, UK
+
+* [**Winter Workshop Chabauty-Kim 2024**](https://tholzschuh.github.io/chabauty-kim-24/) 14-16 Feb 2024, Heidelberg University, Germany
 
 ## Experience
 
@@ -80,7 +88,7 @@ version of modularity theorem.
 
   awarded for remarkable students, funded by the central government of China
 
-## Skills
+<!-- ## Skills
 
 **Technical Skills** &nbsp; C++, Python, Latex, Mathematica, Matlab, Mathematical and Statistical Techniques. See my [github homepage](https://github.com/lambdacdm).
 
@@ -92,7 +100,7 @@ version of modularity theorem.
   
 * **Music Production**
  
-  See [music laboratory](https://lambdacdm.github.io/Music-Laboratory/) (written in Chinese).
+  See [music laboratory](https://lambdacdm.github.io/Music-Laboratory/) (written in Chinese). -->
   
 <!-- ## Research Interest
 
