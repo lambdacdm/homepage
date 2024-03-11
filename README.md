@@ -49,7 +49,7 @@ version of modularity theorem.
 
   Supervisor: Prof. [Ivan Cheltsov](https://www.maths.ed.ac.uk/cheltsov/) 
   
-  Abstract: In this report we study smooth three dimensional hypersurfaces in $\mathbb{P}^2\times\mathbb{P}^2$ of bidegree $(1,2)$.
+  Abstract: In this report we study smooth three dimensional hypersurfaces in P²×P² of bidegree (1,2).
   We show, via a detailed study of cubic curves, that, under generality conditions, these hypersurfaces (and therefore nets of conics) can be put into one of three standard forms by linear change of coordinates.
   
   Report: [Click Here](https://github.com/lambdacdm/Reports-of-Projects/blob/main/Algebraic_Geometry_Prjoject.pdf)
