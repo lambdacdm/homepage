@@ -49,9 +49,8 @@ version of modularity theorem.
 
   Supervisor: Prof. [Ivan Cheltsov](https://www.maths.ed.ac.uk/cheltsov/) 
   
-  * Studied smooth and singular cubic curves, surfaces and their properties in the senior project.
-  * Dealt with Hesse configuration and Hesse pencil.
-  * Utilised projective plane and commutative algebra.
+  Abstract: In this report we study smooth three dimensional hypersurfaces in $\mathbb{P}^2\times\mathbb{P}^2$ of bidegree $(1,2)$.
+  We show, via a detailed study of cubic curves, that, under generality conditions, these hypersurfaces (and therefore nets of conics) can be put into one of three standard forms by linear change of coordinates.
   
   Report: [Click Here](https://github.com/lambdacdm/Reports-of-Projects/blob/main/Algebraic_Geometry_Prjoject.pdf)
   
@@ -59,9 +58,9 @@ version of modularity theorem.
 
   Supervisor: Prof. [Iain Gordon](https://www.maths.ed.ac.uk/~igordon/) (Head of School and Chair of Mathematics)
 
-  * Worked collaboratively on the research projects. Proved the algebraic theorems (e.g. the ring version of the Chinese Remainder Theorem) on Lean, an interactive theorem prover.
+  <!-- * Worked collaboratively on the research projects. Proved the algebraic theorems (e.g. the ring version of the Chinese Remainder Theorem) on Lean, an interactive theorem prover.
   * Sketched the proof of the structure theorem of finitely generated module over a PID on Lean.
-  * Applied the methodology of combining mathematics, logic, and computer science.
+  * Applied the methodology of combining mathematics, logic, and computer science. -->
   
   Report: [Click Here](https://github.com/lambdacdm/Reports-of-Projects/blob/main/Algebra%20Theorem%20Proving%20in%20Lean.pdf)
 
