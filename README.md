@@ -43,7 +43,7 @@ lowering theorem. Next we study the properties of the Frey curve and its represe
 and apply those theorems to deduce FLT. Finally we make a short introduction on a general
 version of modularity theorem.
 
-  Report: [Clicke Here](https://github.com/lambdacdm/Reports-of-Projects/blob/main/modularity.pdf)
+  Report: [Click Here](https://github.com/lambdacdm/Reports-of-Projects/blob/main/modularity.pdf)
   
 * **Sep 2021 - Mar 2022 Group Project in Algebraic Geometry** (UoE) 
 
