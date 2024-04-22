@@ -87,9 +87,9 @@ version of modularity theorem.
 
   awarded on the basis of distinguished performance in the course "Introduction to Number Theory"
   
-* **Jun 2019 National Scholarship** (SCUT)
+<!--* * **Jun 2019 National Scholarship** (SCUT)
 
-  awarded for remarkable students, funded by the central government of China
+  awarded for remarkable students, funded by the central government of China -->
 
 <!-- ## Skills
 
