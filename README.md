@@ -56,7 +56,7 @@ version of modularity theorem.
   
 * **Jul 2021 - Sep 2021 Algebra Theorem Proving in Lean** (UoE)
 
-  Supervisor: Prof. [Iain Gordon](https://www.maths.ed.ac.uk/~igordon/) (Head of School and Chair of Mathematics)
+  Supervisor: Prof. [Iain Gordon](https://www.maths.ed.ac.uk/~igordon/)
 
   <!-- * Worked collaboratively on the research projects. Proved the algebraic theorems (e.g. the ring version of the Chinese Remainder Theorem) on Lean, an interactive theorem prover.
   * Sketched the proof of the structure theorem of finitely generated module over a PID on Lean.
