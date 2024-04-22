@@ -1,4 +1,5 @@
 **My personal website 我的个人主页:** [https://lambdacdm.github.io/home](https://lambdacdm.github.io/home)
+**My CV (this webpage) 我的个人简历（此页面）:** [https://lambdacdm.github.io/homepage/](https://lambdacdm.github.io/homepage/)
 
 ## Xiang Li 李想
 I'm Xiang Li 李想, a first year math PhD student of algebra and number theory in the University of Edinburgh working with Prof. [Minhyong Kim](https://www.minhyongkim.net/). My interests are in algebraic number theory and arithmetic geometry. To be more specific, I am interested in non-abelian Chabauty methods, which provide an efficient way to find rational points on a curve.
