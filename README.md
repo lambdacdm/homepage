@@ -24,7 +24,7 @@ Department of Pure Mathematics and Mathematical Statistics
 
 ## Recent Activities
 
-I have attended/will attend the following conferences.
+I have attended the following conferences.
 
 * [**Gauge Fields in Arithmetic, Topology and Physics**](https://www.icms.org.uk/GaugeFieldsArithmeticTopologyPhysics) 15-19 Apr 2024, ICMS, Edinburgh, UK
 
