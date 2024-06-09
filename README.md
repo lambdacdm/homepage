@@ -60,13 +60,13 @@ version of modularity theorem.
 
   Supervisor: Prof. [Iain Gordon](https://www.maths.ed.ac.uk/~igordon/)
 
-  Abstract: LEAN is a proof assistant, which allows people to write the proof of theorems in a computer programme language. In this report, the proofs of some algebra theorems are realized in LEAN. -->
+  Abstract: LEAN is a proof assistant, which allows people to write the proof of theorems in a computer programme language. In this report, the proofs of some algebra theorems are realized in LEAN. 
 
-  <!-- * Worked collaboratively on the research projects. Proved the algebraic theorems (e.g. the ring version of the Chinese Remainder Theorem) on Lean, an interactive theorem prover.
+   * Worked collaboratively on the research projects. Proved the algebraic theorems (e.g. the ring version of the Chinese Remainder Theorem) on Lean, an interactive theorem prover.
   * Sketched the proof of the structure theorem of finitely generated module over a PID on Lean.
-  * Applied the methodology of combining mathematics, logic, and computer science. -->
+  * Applied the methodology of combining mathematics, logic, and computer science. 
   
-  Report: [Click Here](https://github.com/lambdacdm/Reports-of-Projects/blob/main/Algebra%20Theorem%20Proving%20in%20Lean.pdf)
+  Report: [Click Here](https://github.com/lambdacdm/Reports-of-Projects/blob/main/Algebra%20Theorem%20Proving%20in%20Lean.pdf) -->
 
 <!--* **Apr 2020 - Mar 2021 Riemann Surfaces** (SCUT)
 
