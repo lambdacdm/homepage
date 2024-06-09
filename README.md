@@ -56,11 +56,11 @@ version of modularity theorem.
   
   Report: [Click Here](https://github.com/lambdacdm/Reports-of-Projects/blob/main/Algebraic_Geometry_Prjoject.pdf)
   
-* **Jul 2021 - Sep 2021 Algebra Theorem Proving in Lean** (UoE)
+<!-- **Jul 2021 - Sep 2021 Algebra Theorem Proving in Lean** (UoE)
 
   Supervisor: Prof. [Iain Gordon](https://www.maths.ed.ac.uk/~igordon/)
 
-  Abstract: LEAN is a proof assistant, which allows people to write the proof of theorems in a computer programme language. In this report, the proofs of some algebra theorems are realized in LEAN.
+  Abstract: LEAN is a proof assistant, which allows people to write the proof of theorems in a computer programme language. In this report, the proofs of some algebra theorems are realized in LEAN. -->
 
   <!-- * Worked collaboratively on the research projects. Proved the algebraic theorems (e.g. the ring version of the Chinese Remainder Theorem) on Lean, an interactive theorem prover.
   * Sketched the proof of the structure theorem of finitely generated module over a PID on Lean.
