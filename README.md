@@ -26,7 +26,11 @@ Department of Pure Mathematics and Mathematical Statistics
 
 ## Recent Activities
 
-I have attended the following conferences.
+I have attended / will attend the following conferences.
+
+* [**Young Researchers in Algebraic Number Theory VI**](https://y-rant.github.io/) 31 July - 2 Aug 2024, University of Oxford, UK
+
+* [**The Mordell conjecture 100 years later**](https://mordell.org/) 8-12 July 2024, MIT, US
 
 * [**Gauge Fields in Arithmetic, Topology and Physics**](https://www.icms.org.uk/GaugeFieldsArithmeticTopologyPhysics) 15-19 Apr 2024, ICMS, Edinburgh, UK
 
