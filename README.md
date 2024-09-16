@@ -28,13 +28,15 @@ Department of Pure Mathematics and Mathematical Statistics
 
 I have attended / will attend the following conferences.
 
+* [**Arithmetic, Geometry, Space and Time: A workshop on the occasion of Minhyong Kim's 61st birthday**](https://www.icms.org.uk/ArithmeticGeometrySpaceandTime) 25 - 29 Nov 2024, ICMS, Edinburgh, UK
+
 * [**Young Researchers in Algebraic Number Theory VI**](https://y-rant.github.io/) 31 July - 2 Aug 2024, University of Oxford, UK
 
-* [**The Mordell conjecture 100 years later**](https://mordell.org/) 8-12 July 2024, MIT, US
+* [**The Mordell conjecture 100 years later**](https://mordell.org/) 8 - 12 July 2024, MIT, US
 
-* [**Gauge Fields in Arithmetic, Topology and Physics**](https://www.icms.org.uk/GaugeFieldsArithmeticTopologyPhysics) 15-19 Apr 2024, ICMS, Edinburgh, UK
+* [**Gauge Fields in Arithmetic, Topology and Physics**](https://www.icms.org.uk/GaugeFieldsArithmeticTopologyPhysics) 15 - 19 Apr 2024, ICMS, Edinburgh, UK
 
-* [**Winter Workshop Chabauty-Kim 2024**](https://tholzschuh.github.io/chabauty-kim-24/) 14-16 Feb 2024, Heidelberg University, Germany
+* [**Winter Workshop Chabauty-Kim 2024**](https://tholzschuh.github.io/chabauty-kim-24/) 14 - 16 Feb 2024, Heidelberg University, Germany
 
 ## Experience
 
