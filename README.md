@@ -28,9 +28,13 @@ Department of Pure Mathematics and Mathematical Statistics
 
 I have attended / will attend the following conferences.
 
+* [**Young Researchers in Algebraic Number Theory VII**](https://y-rant.github.io/) 3 Sep - 5 Sep 2025, University of Nottingham, UK
+
+* [**The GEARS seminar**](https://sites.google.com/view/gears-seminar/2024-25) 7 Feb 2025, University of Glasgow, UK
+
 * [**Arithmetic, Geometry, Space and Time: A workshop on the occasion of Minhyong Kim's 61st birthday**](https://www.icms.org.uk/ArithmeticGeometrySpaceandTime) 25 - 29 Nov 2024, ICMS, Edinburgh, UK
 
-* [**Young Researchers in Algebraic Number Theory VI**](https://y-rant.github.io/) 31 July - 2 Aug 2024, University of Oxford, UK
+* [**Young Researchers in Algebraic Number Theory VI**](https://y-rant.github.io/historic/YRANT6/) 31 July - 2 Aug 2024, University of Oxford, UK
 
 * [**The Mordell conjecture 100 years later**](https://mordell.org/) 8 - 12 July 2024, MIT, US
 
